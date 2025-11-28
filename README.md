@@ -1,5 +1,13 @@
 # Ottawa Recreation Reservation
 
+```bash
+git push https://${GIT_TOKEN}:x-oauth-basic@github.com/kthurai/ottawa-recreation-reservation.git
+```
+
+```bash
+git pull https://${GIT_TOKEN}:x-oauth-basic@github.com/kthurai/ottawa-recreation-reservation.git
+```
+
 [![Autoreservation](https://github.com/kthurai/ottawa-recreation-reservation/actions/workflows/autoreservation.yaml/badge.svg)](https://github.com/kthurai/ottawa-recreation-reservation/actions/workflows/autoreservation.yaml)
 [![Tests](https://github.com/kthurai/ottawa-recreation-reservation/actions/workflows/tests.yaml/badge.svg)](https://github.com/kthurai/ottawa-recreation-reservation/actions/workflows/tests.yaml)
 
