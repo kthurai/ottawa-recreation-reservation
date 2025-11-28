@@ -1,0 +1,104 @@
+{
+  "facilities": [
+    {
+      "name": "CARDELREC Recreation Complex Goulbourn",
+      "home": "https://ottawa.ca/en/recreation-and-parks/recreation-facilities/facility-listing/cardelrec-recreation-complex-goulbourn",
+      "link": "https://reservation.frontdesksuite.ca/rcfs/cardelrec/",
+      "activity_button": "Volleyball - adult",
+      "schedule": [
+        {
+          "day_of_week": 4,
+          "starting_time": "8:30 PM",
+          "follow": true
+        }
+      ]
+    },
+    {
+      "name": "François Dupuis Recreation Centre",
+      "home": "https://ottawa.ca/en/recreation-and-parks/recreation-facilities/facility-listing/francois-dupuis-recreation-centre",
+      "link": "https://reservation.frontdesksuite.ca/rcfs/francoisdupuis/",
+      "activity_button": "Volleyball 16+",
+      "schedule": [
+        {
+          "day_of_week": 4,
+          "starting_time": "6:40 PM",
+          "follow": false
+        },
+        {
+          "day_of_week": 4,
+          "starting_time": "7:50 PM",
+          "follow": false
+        }
+      ]
+    },
+    {
+      "name": "Hunt Club-Riverside Park Community Centre",
+      "home": "https://ottawa.ca/en/recreation-and-parks/recreation-facilities/facility-listing/hunt-club-riverside-park-community-centre",
+      "link": "https://reservation.frontdesksuite.ca/rcfs/huntclubCC/",
+      "activity_button": "Volleyball",
+      "schedule": [
+        {
+          "day_of_week": 6,
+          "starting_time": "12:30 PM",
+          "follow": true
+        }
+      ]
+    },
+    {
+      "name": "Minto Recreation Complex - Barrhaven",
+      "home": "https://ottawa.ca/en/recreation-and-parks/recreation-facilities/facility-listing/minto-recreation-complex-barrhaven",
+      "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven/",
+      "activity_button": "Volleyball - Adult",
+      "schedule": [
+        {
+          "day_of_week": 1,
+          "starting_time": "8:00 PM",
+          "follow": true
+        },
+        {
+          "day_of_week": 5,
+          "starting_time": "7:00 PM",
+          "follow": true
+        },
+        {
+          "day_of_week": 5,
+          "starting_time": "8:00 PM",
+          "follow": true
+        }
+      ]
+    },
+    {
+      "name": "Richcraft Recreation Complex-Kanata",
+      "home": "https://ottawa.ca/en/recreation-and-parks/recreation-facilities/facility-listing/richcraft-recreation-complex-kanata",
+      "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata/",
+      "activity_button": "Volleyball - adult",
+      "schedule": [
+        {
+          "day_of_week": 4,
+          "starting_time": "11:00 AM",
+          "follow": false
+        },
+        {
+          "day_of_week": 4,
+          "starting_time": "12:00 PM",
+          "follow": false
+        },
+        {
+          "day_of_week": 5,
+          "starting_time": "12:00 PM",
+          "follow": false
+        },
+        {
+          "day_of_week": 6,
+          "starting_time": "6:00 PM",
+          "follow": true
+        },
+        {
+          "day_of_week": 6,
+          "starting_time": "7:00 PM",
+          "follow": true
+        }
+      ]
+    }
+  ]
+}

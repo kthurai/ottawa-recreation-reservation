@@ -43,12 +43,12 @@ The name of the JSON file containing the schedule.
 """
 
 # Reservation Configuration
-TARGET_RUN_TIME = "18:00:00"
+TARGET_RUN_TIME = "10:00:00"
 """
 The time when the reservation begins.
 """
 
-PRIOR_DAYS = 2
+PRIOR_DAYS = 1
 """
 The number of days in advance to enable reservations.
 """
